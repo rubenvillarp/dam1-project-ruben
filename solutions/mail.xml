@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mail>
+    <title>You've Got Mail</title>
+    <year>1998</year>
+    <director>
+        <name>Nora Ephron</name>
+        <nacionality>USA</nacionality>
+    </director>
+    <cast>
+        <name id="1">Tom Hanks</name>
+        <character id="1">Joe Fox</character>
+        <name id="2">Meg Ryan</name>
+        <character id="2">Kathleen Kelly</character>
+        <name id="3">Parker Posey</name>
+        <character id="3">Patricia Eden</character>
+        <name id="4">Greg Kinnear</name>
+        <character id="4">Frank Navasky</character>
+        <name id="5">Jean Stapleton</name>
+        <character id="5">Birdie Conrad</character>
+        <name id="6">Steve Zahn</name>
+        <character id="6">George Pappas</character>
+    </cast>
+</mail>

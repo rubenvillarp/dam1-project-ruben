@@ -1,0 +1,4 @@
+7.- O arquivo mail.json ocupa 555 bytes e o arquivo mail.xml ocupa 804 bytes
+polo que se aforra ao redor dun 30% do espazo. 
+
+11.- urn:trial:examA, porque a hereda de product.
