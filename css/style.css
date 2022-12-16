@@ -1,0 +1,95 @@
+
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+    height: 8em;
+    margin-bottom: 0.5em;
+}
+header a{
+    font-size: 30px;
+    color: #249FF0;
+    align-self: center;
+}
+footer{
+    color: #249FF0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    background-color: black;
+    height: 3em;
+    margin-top: 0.5em;
+    width: 100vw;
+}
+footer a{
+    color: #249FF0;
+    justify-content: center;
+}
+section{
+    width: 350px;
+    height: 400px;
+    margin: 0.5em;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: black;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100vw;
+    align-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+main a{
+    color: #249FF0;
+}
+.image{
+    height: 262px;
+    width: 350px;
+    border-radius: 0 8 0 8;
+}
+.cardtop{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    align-content: center;
+    height: 8em;
+    background-color: black;
+}
+.cardtop img{
+    align-self: flex-start;
+    justify-self: center;
+}
+#xml>a{
+    color: #F69E30;
+}
+#json>a{
+    color: #9777AB;
+}
+#svg>a{
+    color: #5153FF;
+}
+a:hover{
+    color: white;
+}
+footer a:first-child{
+    font-weight: bold;
+}
+footer>p{
+    align-self: flex-start;
+}
+a{
+    text-decoration: none;
+}
